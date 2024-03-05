@@ -25,3 +25,10 @@ Este é um projeto do site do filme **Mario Bros**.
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
 
+<h2>
+  Link da Página
+</h2>
+<p>
+  https://gabrielth58.github.io/Site-Mario/
+</p>
+
