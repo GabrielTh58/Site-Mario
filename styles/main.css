@@ -1,0 +1,55 @@
+.app main{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 1440px;
+    flex: 1;
+    justify-content: space-between;
+
+}
+
+.app main .main-info{
+    width: 100%;
+    max-width: 570px;
+}
+
+.app main .main-info p{
+    font-size: 18px;
+    margin: 20px 0 20px;
+}
+
+.app main .main-info div{
+    display: flex;
+    column-gap: 32px;
+}
+
+.app main .main-info div button, .main-info div a{
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 3px;
+
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+
+    transform: skew(10deg);
+}
+
+.app main .main-info div a{
+    background-color: var(--red);
+}
+
+.app main .main-info div button{
+    background-color: transparent;
+    border: 1px solid var(--green);
+}
+
+#img-logo-movie{
+    width: 250px;
+}
+
+#img-mario-luigi{
+    width: 680px;
+}
