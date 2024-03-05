@@ -25,8 +25,3 @@ Este é um projeto do site do filme **Mario Bros**.
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
 
-
-## 📝 Tema de casa
-
-- [ ] Criar responsividade
-- [ ] Adicionar efeito de hover nos botões
